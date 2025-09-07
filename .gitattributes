@@ -1,0 +1,23 @@
+* text=auto
+
+# Documentation
+*.md            text diff=markdown
+LICENSE         text
+.gitignore      text
+.editorconfig   text
+.gitattributes  text
+
+# Aseprite
+*.aseprite  binary
+*.ase       binary
+
+## Graphics
+*.gif  binary
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+
+#blender
+*.blend binary
+
+*.zip binary
