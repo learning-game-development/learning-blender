@@ -4,7 +4,7 @@
 :o: Incomplete  
 :no_entry: No longer Available
 
-## :beginner: Packt-Publishing eBooks Courses
+## :beginner: :books: Packt-Publishing eBooks Courses
 
 1. :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/)
 2. :o: [Blender 2.5 Character Animation Cookbook](character-animation-cookbook/)
