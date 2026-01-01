@@ -6,10 +6,10 @@
 
 ## :beginner: Humble Book and Video Bundle Courses
 
-### Humble Book Bundle: Game Design & Animation by Packt
+### :books: Humble Book Bundle: Game Design & Animation by Packt
 
 - :construction: [Create a Game Character: Blender, Substance Painter, and Unity](/) :rocket:
-- [Learn the Foundations of Blender](game-design-animation/)
+- :o: [Learn the Foundations of Blender](game-design-animation/)
 - [Blender 3D By Example](game-design-animation/)
 - [Blender for Video Production Quick Start Guide](game-design-animation/)
 

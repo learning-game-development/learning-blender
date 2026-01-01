@@ -37,6 +37,9 @@
 6. :o: [Blender for Beginners - Getting Started Modeling in Blender](youtube-playlists-tutorials/blender-for-beginners/) -- The CG Essentials
 7. Brackeys:
    - :heavy_check_mark: [Introduction to Blender](youtube-playlists-tutorials/brackeys/introduction-to-blender)
+8. PitiIT
+   - :heavy_check_mark: [The Secret 20 Percent That Makes 80 Percent of 3D Art - Blendet Tutorial For Beginners](https://youtu.be/8ZaU2oR-5tY?si=Yix96ZY09PE9rTpQ)
+   - :heavy_check_mark: [How To Texture Your First 3D Model In Blender](https://youtu.be/Ubbmy2t3VAU?si=t-8ghPMnWFCJRtQt)
 
 ## :books: eBook Tutorials and Courses
 
