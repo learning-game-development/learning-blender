@@ -12,7 +12,7 @@
    - :heavy_check_mark: [Intro To Blender](online-courses-tutorials/cgma/intro-to-blender/)
 2. CG Cookie:
    - :heavy_check_mark: [BLENDER BASICS: An introduction to Blender 3.x](online-courses-tutorials/cgcookie/blender-basics/)
-   - :o: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/cgcookie/blender-basics/)
+   - :heavy_check_mark: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/cgcookie/blender-basics/)
    - :o: [BLENDER BASICS: An Introduction to Blender 3D 4.5 LTS](online-courses-tutorials/cgcookie/blender-basics/)
 3. P2Design Academy:
    - :construction: [The Art of Effective Rigging](online-courses-tutorials/p2design-academy/art-of-effective-rigging/)
@@ -44,7 +44,7 @@
 ## :books: eBook Tutorials and Courses
 
 1. Mammoth Interactive:
-   - :o: [Introduction to Blender (Free Downloadable eBook)](ebook-courses-tutorials/introduction-to-blender/)
+   - :heavy_check_mark: [Introduction to Blender (Free Downloadable eBook)](ebook-courses-tutorials/introduction-to-blender/)
 2. Packt Publishing:
    - :o: [Blender 2.5 HOTSHOT](packt-publishing/blender-25-hotshot/)
    - :o: [Blender 2.5 Character Animation Cookbook](packt-publishing/character-animation-cookbook/)

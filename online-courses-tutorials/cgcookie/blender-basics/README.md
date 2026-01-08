@@ -22,8 +22,8 @@
 :link: [Blender 4.x Beginner Basics Complete Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V) -- YouTube Playlist
 
 1. :heavy_check_mark: Intro to 3D Space
-2. :o: Editing Objects
-3. :o: The Blender Way
+2. :heavy_check_mark: Editing Objects
+3. :heavy_check_mark: The Blender Way
 
 ### :ice_cube: Blender 4.5 LTS Beginner Basics
 

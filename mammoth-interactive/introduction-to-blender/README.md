@@ -1,13 +1,13 @@
 # :mortar_board: Introduction to Blender (Free Downloadable eBook)
 
-## Chapter 1: Arcade Machine
+## :ice_cube: Chapter 1: Arcade Machine
 
 ![Arcade Machine](ArcadeMachine.png)
 
-## Chapter 2: Pinball Machine
+## :ice_cube: Chapter 2: Pinball Machine
 
-TODO
+![Pinball Machine](PinballMachine.png)
 
-## Chapter 3: Arcade Room
+## :ice_cube: Chapter 3: Arcade Room
 
-TODO
+![Full Arcade](ArcadeRoom.png)
