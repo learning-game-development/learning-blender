@@ -23,8 +23,9 @@
    - :heavy_check_mark: [Introduction to Blender 2.8 for Complete Beginners](online-courses-tutorials/udemy-courses/intro-to-blender-for-beginners/)
    - :o: [Blender Beginners Guide to 3D Modelling Game Asset Pipeline](online-courses-tutorials/udemy-courses/modelling-game-asset-pipeline)
 5. GameDev.tv:
-   - :o: [Get Started With Blender - FREE Course](/online-courses-tutorials/gamedev-tv-courses/)
-6. :o: [Learn Level Design with Blender and Unity 3D](https://github.com/learning-game-development/learning-unity-game-development/tree/master/StackSkills-Unity-Courses) :rocket: -- stoneriverelearning.com
+   - :heavy_check_mark: [Get Started With Blender - FREE Course](/online-courses-tutorials/gamedev-tv-courses/)
+6. StackSkills:
+   - :o: [Learn Level Design with Blender and Unity 3D](https://github.com/learning-game-development/learning-unity-game-development/tree/master/StackSkills-Unity-Courses) :rocket: -- stoneriverelearning.com
 
 ## :beginner: YouTube Tutorials and Courses
 
