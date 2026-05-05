@@ -15,7 +15,7 @@
 
 ### Humble Video Learning Bundle: Unlock Pro 3D Modeling Skills with Blender by Packt
 
-- The Blender 4 Ultimate Guide
+- :o: The Blender 4 Ultimate Guide
 - Blender 4 - Geometry Nodes for Beginners
 - Blender Lighting & Compositing for Beginners
 - Blender to Unreal Engine 5 The Complete Beginners Guide
@@ -26,7 +26,7 @@
 - Master Character Design in Blender for Unity, Unreal Engine
 - Blender to Unreal Engine 5 - Fantasy River 3D Diorama Boat Scene
 - Blender 4 - The Modular and Kitbash Environment Guide
-- Blender Beginners Masterclass - The Cookie Factory
+- :o: Blender Beginners Masterclass - The Cookie Factory
 - Blender Geometry Nodes for Beginners - Procedural Bridge Generator
 - Blender 4 Modeling and Geometry Node Workshop
 - Blender 4 Geometry Nodes Workshop - Jungle Vines
