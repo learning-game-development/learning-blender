@@ -12,17 +12,17 @@
 3. :heavy_check_mark: Duplicating Objects
 4. :heavy_check_mark: The Loop Cut and Slide Tool
 5. :heavy_check_mark: Rendering a Scene
-6. The Array Modifier
-7. Assembling Complex Objects
-8. Circular Extrusions
-9. The Subdivision Surface Modifier
-10. Continuing the Lego Scene
-11. Snapping Tools
-12. Beginning the Lego Character
-13. The Mirror Modifier
-14. Creating the Character's Arms
-15. Creating the Hands
-16. Finishing the Lego Scene
+6. :heavy_check_mark: The Array Modifier
+7. :o: Assembling Complex Objects
+8. :o: Circular Extrusions
+9. :o: The Subdivision Surface Modifier
+10. :o: Continuing the Lego Scene
+11. :o: Snapping Tools
+12. :o: Beginning the Lego Character
+13. :o: The Mirror Modifier
+14. :o: Creating the Character's Arms
+15. :o: Creating the Hands
+16. :o: Finishing the Lego Scene
 
 ### :ice_cube: Section 2: Materials and Lighting
 
