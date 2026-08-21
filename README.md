@@ -43,6 +43,8 @@
 8. PitiIT
    - :heavy_check_mark: [The Secret 20 Percent That Makes 80 Percent of 3D Art - Blendet Tutorial For Beginners](https://youtu.be/8ZaU2oR-5tY?si=Yix96ZY09PE9rTpQ)
    - :heavy_check_mark: [How To Texture Your First 3D Model In Blender](https://youtu.be/Ubbmy2t3VAU?si=t-8ghPMnWFCJRtQt)
+9. FreeCodeCamp
+   - :o: [Create a Cute Room Portfolio with Three.js, Blender, JavaScript](https://www.freecodecamp.org/news/create-a-cute-room-portfolio-with-threejs-blender-javascript/)
 
 ## :books: eBook Tutorials and Courses
 
@@ -61,9 +63,11 @@
 
 ## :tv: Online Courses Bundles
 
-- :file_folder: [Humble Book and Video Bundles](online-courses-tutorials/humble-bundle)
-- :file_folder: [Unlock Pro 3D Modeling Skills with Blender by Packt](online-courses-tutorials/humble-bundle)
+- :file_folder: [Humble Book and Video Bundles](humble-bundle/)
+- :file_folder: [Unlock Pro 3D Modeling Skills with Blender by Packt](humble-bundle/unlock-pro-modeling-skills/)
 - :file_folder: [Blender 3D Modeling Course Bundle](online-courses-tutorials/eldamar-studio/)
+- :file_folder: [Ultimate Game Development Course Bundle](online-courses-tutorials/skillademia/)
+- :file_folder: [Become a 3D Artist](online-courses-tutorials/fasttracktutorials /)
 
 ## :memo: Version
 
