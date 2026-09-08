@@ -1,4 +1,4 @@
-# :mortar_board: BLENDER BASICS: An Introduction to Blender 3D 4.X
+# :mortar_board: BLENDER BASICS: An Introduction to Blender 3D
 
 :link: [cgcookie.com](https://cgcookie.com/)  
 
@@ -30,7 +30,7 @@
 :link: [BLENDER BASICS: An Introduction to Blender 3D 4.5 LTS](https://cgcookie.com/courses/blender-basics-an-introduction-to-blender-3d-4-5-lts)  
 :link: [Blender 4.5 Beginner Basics Complete Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5gZhJhyIQPKoz9Yrs9oKU9R)
 
-1. :o: Intro to 3D Space
-2. :o: Editing Objects
-3. :o: The Blender Way
-4. :o: Next Steps
+1. :heavy_check_mark: Intro to 3D Space
+2. :: Editing Objects
+3. :heavy_check_mark: The Blender Way
+4. :heavy_check_mark: Next Steps
