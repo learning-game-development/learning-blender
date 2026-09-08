@@ -17,7 +17,11 @@ LICENSE         text
 *.jpeg binary
 *.png  binary
 
-#blender
+# Blender
 *.blend binary
 
 *.zip binary
+
+# HDRI files
+*.hdr  binary
+*.exr  binary

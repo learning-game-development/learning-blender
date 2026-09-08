@@ -1,4 +1,4 @@
-#blender
+# Blender
 *.pyc
 *.blend[1-9]
 __pycache__
@@ -8,3 +8,7 @@ learning-blender/online-courses-tutorials/intro-to-blender-cgma/CleaningRobot.bl
 
 # VSCode workspace
 *.code-workspace
+
+# HDRI files
+*.hdr
+*.exr

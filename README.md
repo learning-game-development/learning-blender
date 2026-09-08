@@ -6,6 +6,14 @@
 :o: Incomplete  
 :no_entry: No longer Available
 
+## :tv: Online Courses Bundles
+
+- :file_folder: [Humble Book and Video Bundles](humble-bundle/)
+- :file_folder: [Unlock Pro 3D Modeling Skills with Blender by Packt](humble-bundle/unlock-pro-modeling-skills/)
+- :file_folder: [Blender 3D Modeling Course Bundle](online-courses-tutorials/eldamar-studio/)
+- :file_folder: [Ultimate Game Development Course Bundle](online-courses-tutorials/skillademia/)
+- :file_folder: [Become a 3D Artist](online-courses-tutorials/fasttracktutorials/)
+
 ## :beginner: Online Courses
 
 1. CG Master Academy (CGMA)
@@ -13,7 +21,8 @@
 2. CG Cookie:
    - :heavy_check_mark: [BLENDER BASICS: An introduction to Blender 3.x](online-courses-tutorials/cgcookie/blender-basics/)
    - :heavy_check_mark: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/cgcookie/blender-basics/)
-   - :o: [BLENDER BASICS: An Introduction to Blender 3D 4.5 LTS](online-courses-tutorials/cgcookie/blender-basics/)
+   - :heavy_check_mark: [BLENDER BASICS: An Introduction to Blender 3D 4.5 LTS](online-courses-tutorials/cgcookie/blender-basics/)
+   - :o: [DRAW! An Introduction to Blender's Grease Pencil](online-courses-tutorials/cgcookie/blender-grease-pencil/)
 3. P2Design Academy:
    - :construction: [The Art of Effective Rigging](online-courses-tutorials/p2design-academy/art-of-effective-rigging/)
    - :construction: [Alive! animation course in Blender](/)
@@ -53,21 +62,6 @@
 2. Packt Publishing:
    - :o: [Blender 2.5 HOTSHOT](packt-publishing/blender-25-hotshot/)
    - :o: [Blender 2.5 Character Animation Cookbook](packt-publishing/character-animation-cookbook/)
-
-## :beginner: YouTube Quick Tutorials
-
-- :heavy_check_mark: [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) :link: -- Grease Pencil Tutorial
-- :heavy_check_mark: [How to Create 2D Animations - Beginner Blender Tutorial](youtube-quick-tutorials/2d-animations/) -- CG Geek
-- :o: [Blender Low Poly Tutorial - How To Make Low Poly House In Blender (EASY!)](youtube-quick-tutorials/low-poly-house/) -- CG Infinite
-- :heavy_check_mark: [Blender Crash Course - Learn to Model In Less Than 20 Minutes!](youtube-quick-tutorials/blender-crash-course/) -- Nocluse
-
-## :tv: Online Courses Bundles
-
-- :file_folder: [Humble Book and Video Bundles](humble-bundle/)
-- :file_folder: [Unlock Pro 3D Modeling Skills with Blender by Packt](humble-bundle/unlock-pro-modeling-skills/)
-- :file_folder: [Blender 3D Modeling Course Bundle](online-courses-tutorials/eldamar-studio/)
-- :file_folder: [Ultimate Game Development Course Bundle](online-courses-tutorials/skillademia/)
-- :file_folder: [Become a 3D Artist](online-courses-tutorials/fasttracktutorials /)
 
 ## :memo: Version
 
