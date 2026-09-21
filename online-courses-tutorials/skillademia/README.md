@@ -5,8 +5,8 @@
 
 ## :beginner: Online Courses
 
-- :o: Blender Basics Course
-- :o: Blender Character Creation Course
+- :o: [Blender Basics Course](/online-courses-tutorials/skillademia/blender-basics-course/)
+- :construction: Blender Character Creation Course
 - Unreal Engine 5 Course: Create games in UE5 & Blender
 - Blender Environments Course: Create 3D Environments
 - Pixel Art Course
